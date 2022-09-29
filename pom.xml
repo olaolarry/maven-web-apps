@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.112.243:8081/repository/ojintexs-snapshot/</url>
+	      <url>http://44.201.112.243:8081/repository/telecommunications-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
